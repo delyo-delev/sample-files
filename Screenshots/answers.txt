@@ -1,0 +1,84 @@
+Which port is used by LDAP implementations like OpenLDAP?
+389
+
+
+Which network port is when NFS is configured to use only version 4 and to work in 
+firewall-firendly mode?
+2049/tcp
+
+
+Which port is used when using rsync in server mode?
+873/tcp
+
+
+Which port/protocol is used by iSCSI?
+3260/tcp
+
+
+Which TWO docker commands will download an image if not found locally?
+pull
+run
+
+
+Which docker command can be used to publish an image to registry?
+push
+
+
+Which docker command can be used to download an image locally?
+pull
+
+
+Which docker command can be used to build an image from a Dockerfile locally?
+build
+
+
+Where is stored the main configuration of the mdadm utility?
+/etc/mdadm.conf
+
+
+What is the default stripe size when creating MD RAID0 array?
+512K
+
+
+What is a common hard drive block size?
+512
+
+What are the TWO possible states of a Printer Queue in CUPS?
+reject
+accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
